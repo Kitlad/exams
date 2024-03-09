@@ -2,11 +2,11 @@
 [
   {
     "id": "1",
-    "name_subj": "Algebra"
+    "name": "Algebra"
   },
   {
     "id": "2",
-    "name_sbj": "Geometry"
+    "name": "Geometry"
   }
 ]
 }
