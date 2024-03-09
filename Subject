@@ -1,0 +1,13 @@
+{"subject":
+[
+  {
+    "id": "1",
+    "name_subj": "Algebra",
+  },
+  {
+    "id": "2",
+    "name_sbj": "Geometry",
+    "email": "abc@gmail.com"
+  }
+]
+}
