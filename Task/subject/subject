@@ -1,10 +1,12 @@
 {"subject":
 [
   {
-    "name": "Algebra"
+    "name": "Algebra",
+    "title": "Алгебра"
   },
   {
     "name": "Geometry"
+    "title": "Алгебра",
   }
 ]
 }
